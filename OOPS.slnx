@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="InheritanceExample/InheritanceExample.csproj" />
+  <Project Path="Interfaces/Interfaces.csproj" Id="f34493f1-df8b-4142-98b2-d9c936f5dbf0" />
+  <Project Path="MethodHidding/MethodHidding.csproj" />
+  <Project Path="MethodOverLoading/MethodOverLoading.csproj" Id="2c0898a8-a256-4017-a2ea-d4be7dac0224" />
+  <Project Path="PolyMethodOverriding/PolyMethodOverriding.csproj" />
+</Solution>
