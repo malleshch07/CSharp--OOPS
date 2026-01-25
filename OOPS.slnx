@@ -7,4 +7,5 @@
   <Project Path="MethodHidding/MethodHidding.csproj" />
   <Project Path="MethodOverLoading/MethodOverLoading.csproj" Id="2c0898a8-a256-4017-a2ea-d4be7dac0224" />
   <Project Path="PolyMethodOverriding/PolyMethodOverriding.csproj" />
+  <Project Path="Pub-Sub-ActionDelgate/Pub-Sub-ActionDelgate.csproj" Id="d175aba5-39fc-4811-8d74-3a30ca4defd2" />
 </Solution>
