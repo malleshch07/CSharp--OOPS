@@ -6,6 +6,7 @@
     {
         void Defaultprint()
         {
+            int a;
             Console.WriteLine("Im print from Default Interface ");
 
         }

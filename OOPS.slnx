@@ -1,4 +1,7 @@
 <Solution>
+  <Project Path="AbstractClassAnDMethods/AbstractClassAnDMethods.csproj" Id="3a2859e4-9fc1-4a81-abf4-09a606fbb0c5" />
+  <Project Path="DelegateSample/DelegateSample.csproj" Id="1bb15393-cadb-47c5-92c8-370f26aa696e" />
+  <Project Path="DelegateTypes/DelegateTypes.csproj" Id="55165c30-76a0-46b3-8de9-a0e1884c9429" />
   <Project Path="InheritanceExample/InheritanceExample.csproj" />
   <Project Path="Interfaces/Interfaces.csproj" Id="f34493f1-df8b-4142-98b2-d9c936f5dbf0" />
   <Project Path="MethodHidding/MethodHidding.csproj" />
