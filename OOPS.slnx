@@ -9,4 +9,5 @@
   <Project Path="MethodOverLoading/MethodOverLoading.csproj" Id="2c0898a8-a256-4017-a2ea-d4be7dac0224" />
   <Project Path="PolyMethodOverriding/PolyMethodOverriding.csproj" />
   <Project Path="Pub-Sub-ActionDelgate/Pub-Sub-ActionDelgate.csproj" Id="d175aba5-39fc-4811-8d74-3a30ca4defd2" />
+  <Project Path="Struct_samples/Struct_samples.csproj" Id="9e6163b9-1768-4e19-b154-1d054dfcae9d" />
 </Solution>
